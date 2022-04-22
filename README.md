@@ -1,10 +1,10 @@
 # Workout-Log
 Avery Girdeen's Workout-Log Application 
 
-(Video for Milestone 1)
+**(Video for Milestone 1)**
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2370711/sp/237071100/embedIframeJs/uiconf_id/42909941/partner_id/2370711?iframeembed=true&playerId=kaltura_player&entry_id=1_sfjt78wj&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_g6e8707g" width="608" height="342" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>  
 
-(video for Milestone 2)
+**(video for Milestone 2)**
 https://www.youtube.com/watch?v=IZXGMH8wbIY
 
 
@@ -18,7 +18,7 @@ The purpose of this project is to create an application that can allow users to 
 •	Give a list of exercises to add to your lift for the day. The program will then ask the user the number of sets, reps, and the amount of weight being used for each exercise. 
 •	When you’ve completed your workout log for the day, the current date, the total amount of weight lifted, and all the information about each lift will be printed.
 
-I believe this project would suit this class very well. It will involve some OOP concepts and GUI components. This would be great experience.
+I believe this project would suit this class very well. It will involve some OOP concepts and some new concepts that I plan on learning on my own. This would be great experience.
 I believe the concepts that will be used to create this are basic enough for students to learn, but also will be a great experience.
 
 **Motivation**
@@ -30,18 +30,16 @@ Research Methods
 I’ll use prior knowledge, notes, and projects from classes like Object-Oriented Programming and Data Structures and Algorithms to help with concepts and implementation for this project. I’ll also do some research using the web if needed. 
 Scope
 As a student, I think completing this project would take some work, but is possible. Successfully developing a program like this would be a big
-accomplishment for any student. Experience with creating a simple GUI would be very useful and hopefully enjoyable.
+accomplishment for any student.
 
 
 
 **Current Progress with the Project:**
 •	Start off with asking if you’re going to work out today or not. If you don’t plan on working out, a goodbye line will be presented with the current date. 
-•	Give a list of exercises to add to your lift for the day. The program will then ask the user the number of sets, reps, and the amount of weight being used for each exercise. 
+•	Give a list of exercises to add to your lift for the day. THe program shows what muscle group each exercise works, and when an exercis is picked, A reminder/tip wil be displayed for that specific exercise. The program will then ask the user the number of sets, reps, and the amount of weight being used for each exercise. 
 •	When you’ve completed your workout log for the day, the current date, the total amount of weight lifted, and all the information about each lift will be printed.
-What I Would Like to Add by The Next Milestone:
-•	More lifts and customization available
+
+**What I Would Like to Add for the Final Submisison:**
 •	An easier way to exit the program when you are shown the exercise options
-•	Add descriptions of the exercises or what muscles each exercise works
-•	Eventually I like to implement the use of an interface rather than just using the console
 •	Add anything else that I think would be beneficial to the application
 
