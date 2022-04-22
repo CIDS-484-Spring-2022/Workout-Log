@@ -10,13 +10,16 @@ https://www.youtube.com/watch?v=IZXGMH8wbIY
 
 **Simple Workout Log**
 
-**Description **
+**Description**
 The purpose of this project is to create an application that can allow users to create workouts for each day of the week. This app will be a simple way to keep track of your weekly lifting schedule. The users will have full customization on what lifts they want to have added for each day and customize the number of sets and reps for each exercise. 
 
 **Here's a list of tasks that the software is able to complete currently**
 •	Start off with asking if you’re going to work out today or not. If you don’t plan on working out, a goodbye line will be presented with the current date. 
 •	Give a list of exercises to add to your lift for the day. The program will then ask the user the number of sets, reps, and the amount of weight being used for each exercise. 
+• Each exercise has detail on what the main muscle group is being worked.
+• When an exercie is picked, a reminder/tip is given for that specific exercise. 
 •	When you’ve completed your workout log for the day, the current date, the total amount of weight lifted, and all the information about each lift will be printed.
+• THe program will also print your output to a text file. This way you can save your progress and look back at your stats. This also gives you the ability to add comments to your results. 
 
 I believe this project would suit this class very well. It will involve some OOP concepts and some new concepts that I plan on learning on my own. This would be great experience.
 I believe the concepts that will be used to create this are basic enough for students to learn, but also will be a great experience.
