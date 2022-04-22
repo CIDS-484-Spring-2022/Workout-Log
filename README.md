@@ -43,6 +43,5 @@ accomplishment for any student.
 •	When you’ve completed your workout log for the day, the current date, the total amount of weight lifted, and all the information about each lift will be printed.
 
 **What I Would Like to Add for the Final Submisison:**
-•	An easier way to exit the program when you are shown the exercise options
 •	Add anything else that I think would be beneficial to the application
 
