@@ -6,6 +6,13 @@ Avery Girdeen's Workout-Log Application
 
 **(video for Milestone 2)**
 https://www.youtube.com/watch?v=IZXGMH8wbIY
+//The final videos uploaded with water marks and were blurry, so the outline and code shown in the video are posted in the repository. 
+**(Final video Part 1)** 
+https://www.youtube.com/watch?v=e1gOpUbaIJY
+**(Final Video Part 2)**
+https://www.youtube.com/watch?v=sa9oKYEk6Yw
+
+
 
 
 **Simple Workout Log**
